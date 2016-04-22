@@ -1,0 +1,55 @@
+@import url("//fonts.googleapis.com/css?family=Ubuntu:400");
+body {
+  background-image: url('../img/bg.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+}
+.logo {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+.container {
+  position: relative;
+  top: 40%;
+  transform: translateY(-40%);
+}
+.panel-extra {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 10px;
+  font-size: 100px;
+}
+.panel-extra:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+  -webkit-transform: scale(1.2);
+  -moz-transform:    scale(1.2);
+  -o-transform:      scale(1.2);
+  -ms-transform:     scale(1.2);
+}
+.panel-extra > .panel-body {
+  padding: 0px;
+}
+.panel-status {
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border-radius: 10px;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: #e5e5e5;
+}
+strong {
+  color: #5cb85c;
+}

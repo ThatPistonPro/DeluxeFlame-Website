@@ -1,0 +1,376 @@
+    <!-- OTHER --> 
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+
+                <div class="tab-content">
+
+                    <!-- Featured Tab -->
+
+                    <div class="tab-pane fade in active" id="featured">
+
+                        <!-- Feature Title -->
+
+                        <div class="jumbotron">
+                            <h1>Featured Items</h1>
+                            <p>New and on sale!</p>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-12">
+                            <h2>Item 1 <small>50% off!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue. Ut vehicula dui sed libero venenatis, a iaculis leo tristique. Aliquam laoreet odio tellus, vitae volutpat nunc convallis nec. Suspendisse potenti. Sed elementum lectus dolor, in pharetra nulla posuere id. In hac habitasse platea dictumst. In hac habitasse platea dictumst.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal1">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 1</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 2 <small>New!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal2">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 2</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 3 <small>Limited Time!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal3">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 3</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Tab 1 -->
+
+                    <div class="tab-pane fade" id="tab1">
+
+                        <!-- Feature Title -->
+
+                        <div class="jumbotron">
+                            <h1>Tab 1</h1>
+                            <p>Subheading</p>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 4 <small>50% off!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal4">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 4</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 5 <small>New!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal5">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 5</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 6 <small>Limited Time!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal6">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 6</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Item -->
+
+                        <div class="col-md-6">
+                            <h2>Item 7 <small>Limited Time!</small></h2>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum porttitor, turpis id rutrum pharetra, nibh tellus sodales quam, vel fringilla mi arcu in nisi. Nam leo diam, ultricies in commodo vitae, interdum a lacus. Duis porttitor neque tortor. Sed vitae pretium leo, quis hendrerit augue.</p>
+                            <p>
+                                <button class="btn btn-default" data-toggle="modal" data-target="#modal7">Learn More</button>
+                                <button class="btn btn-success pull-right"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                            </p>
+                        </div>
+
+                        <!-- Modal -->
+
+                        <div class="modal fade" id="modal7" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title" id="myModalLabel">Item 7</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tincidunt quam. Suspendisse mauris enim, dictum quis nunc in, blandit interdum nisl. Proin accumsan ullamcorper pharetra. Phasellus quis leo diam. Sed vel ligula sed sapien sodales tempus vitae nec ante. Donec est ante, rhoncus ut ante a, gravida varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nulla lectus, iaculis eu condimentum ut, commodo id nisi. Quisque lacinia massa eget odio ullamcorper bibendum. Nulla in libero ac sem lobortis condimentum non vitae elit. In cursus diam felis, laoreet condimentum neque pharetra vitae.
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-danger pull-left" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-success"><i class="fa fa-shopping-cart"></i> $10.00</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <!-- Tab 2 -->
+
+                    <div class="tab-pane fade" id="tab2">
+
+                        <div class="jumbotron">
+                            <h1>Tab 2</h1>
+                            <p>Subheading</p>
+                        </div>
+
+                        <div class="col-md-4">
+
+                            <div class="panel panel-info">
+                                <div class="panel-heading">
+                                    <h4 class="text-center">
+                        VIP</h4>
+                                </div>
+                                <div class="panel-body text-center">
+                                    <p class="shop-pricepanel">
+                                        $15/mo</p>
+                                </div>
+                                <ul class="list-group list-group-flush text-center">
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>Priority Queue</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>2x Tokens</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>20 kits</li>
+                                </ul>
+                                <div class="panel-footer">
+                                    <a class="btn btn-lg btn-block btn-info" href=""><i
+                                    class="fa fa-shopping-cart"></i> Purchase</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="panel panel-success">
+                                <div class="panel-heading">
+                                    <h4 class="text-center">
+                        MVP</h4>
+                                </div>
+                                <div class="panel-body text-center">
+                                    <p class="shop-pricepanel">
+                                        $25/mo</p>
+                                </div>
+                                <ul class="list-group list-group-flush text-center">
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>Priority Queue</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>4x Tokens</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>40 kits</li>
+                                </ul>
+                                <div class="panel-footer">
+                                    <a class="btn btn-lg btn-block btn-success" href=""><i
+                                    class="fa fa-shopping-cart"></i> Purchase</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="panel panel-danger">
+                                <div class="panel-heading">
+                                    <h4 class="text-center">
+                        MVP+</h4>
+                                </div>
+                                <div class="panel-body text-center">
+                                    <p class="shop-pricepanel">
+                                        $35/mo</p>
+                                </div>
+                                <ul class="list-group list-group-flush text-center">
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>Priority Queue</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>8x Tokens</li>
+                                    <li class="list-group-item"><i class="icon-ok text-danger"></i>All kits</li>
+                                </ul>
+                                <div class="panel-footer">
+                                    <a class="btn btn-lg btn-block btn-danger" href=""><i
+                                    class="fa fa-shopping-cart"></i> Purchase</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Tab 3 -->
+
+                    <div class="tab-pane fade" id="tab3">
+
+                        <div class="jumbotron">
+                            <h1>Tab 3</h1>
+                            <p>Subheading</p>
+                        </div>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget tortor tortor. Etiam orci enim, ornare vitae nunc ut, accumsan dapibus sapien. Nam sed blandit arcu, eget ultricies arcu. In at cursus sem, ut aliquet lorem. Suspendisse dignissim magna sit amet lacus lobortis, at sagittis justo consequat. Curabitur sollicitudin auctor blandit. Nam sit amet rhoncus magna. Morbi a rhoncus enim. Aliquam erat volutpat. Donec elit ante, tristique in condimentum sit amet, rhoncus sed ipsum. Quisque sagittis tincidunt lorem, ut faucibus libero venenatis non. Curabitur non sagittis justo. Phasellus tempus laoreet ornare. Vestibulum vel elit ut lectus ornare rhoncus id eu urna. Curabitur malesuada non felis id vehicula.</p>
+
+                        <select name="package" class="form-control input-lg">
+                            <option>500 Tokens for $7</option>
+                            <option>1500 Tokens for $10</option>
+                            <option>2500 Tokens for $15</option>
+                            <option>5000 Tokens for $18</option>
+                            <option>10000 Tokens for $25</option>
+                        </select>
+                        <br/>
+                        <button type="submit" class="btn btn-lg btn-success"><i class="fa fa-shopping-cart"></i>
+                            Purchase
+                        </button>
+
+
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-2">
+                <br>
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="active"><a href="#featured" data-toggle="pill">Featured</a>
+                    </li>
+                    <li><a href="#tab1" data-toggle="pill">Tab 1</a>
+                    </li>
+                    <li><a href="#tab2" data-toggle="pill">Tab 2</a>
+                    </li>
+                    <li><a href="#tab3" data-toggle="pill">Tab 3</a>
+                    </li>
+                </ul>
+                <br>
+            </div>
+        </div>
+    </div>
+	<!-- OTHER -->
